@@ -41,7 +41,7 @@ Pemanggilan aksi logs dari browser Chrome:
 
 Aksi untuk menampilkan semua instance database yang sudah dibuat berserta keterangannya.
 
-`http://localhost:8000/logs` (GET) 
+`http://localhost:8000/list` (GET) 
 
 ### Contoh list
 
